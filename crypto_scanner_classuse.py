@@ -15,7 +15,7 @@ Original file is located at
 # Commented out IPython magic to ensure Python compatibility.
 # %cd content/drive/MyDrive/crypto_scanner/
 
-pip install -r requirements.txt
+#pip install -r requirements.txt
 
 
 
