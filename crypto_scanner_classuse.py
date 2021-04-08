@@ -10,7 +10,7 @@ Original file is located at
 # Commented out IPython magic to ensure Python compatibility.
 # %cd /
 
-pip install django-toolbelt bokeh numpy
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %cd content/drive/MyDrive/crypto_scanner/
