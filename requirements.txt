@@ -147,8 +147,7 @@ intel-openmp==2021.2.0
 intervaltree==2.1.0
 ipykernel==4.10.1
 ipython==5.5.0
-ipython-genutils==0.2.0ipywidgets==7.6.3
-itsdangerous==1.1.0jedi==0.18.0
+ipython-genutils==0.2.0itsdangerous==1.1.0jedi==0.18.0
 jieba==0.42.1
 Jinja2==2.11.3
 joblib==1.0.1
